@@ -1,0 +1,82 @@
+header{
+    position: fixed;
+    width: 99%;
+}
+.topnav {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    padding: 10px; 
+    background-color: black;
+    border-radius: 2%;
+    
+}
+
+.active {
+    padding: 10px;
+    color: white;
+}
+
+.active-2 {
+    padding: 10px;
+    color: white;
+
+}
+
+.active-3 {
+    padding: 10px;
+    color: white;
+
+}
+
+
+.search-container {
+    float: right;
+
+}
+
+.search {
+    height: 20px;
+    width: 225px;
+}
+
+.submit {
+    background-color: black;
+    color: white;
+    border-color: white;
+    height: 31px;
+    border-radius: 10%;
+}
+
+
+body {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 70px;
+}
+
+#myBtn {
+    clear: both;
+    color: white;
+    height: 40px;
+    width: 55px;
+    background-color: black;
+    border-radius: 15%;
+    font-size: 15px;
+    float: right;
+}
+
+#myBtn:hover { 
+    background-color: grey;
+
+}
+
+footer {
+    text-align: center;
+    font-size: 25px;
+    
+}
+
